@@ -1,0 +1,11 @@
+WTF is this all about??:
+This my repository for tracking my progress through the Learn Code The Hard Way series of books ( http://learncodethehardway.org/ ) Specifically, Learn C The Hard Way ( http://c.learncodethehardway.org/ ). Only the code portion of the lessons will be accompanied, including:
+    * What you should see source code.
+    * How to break it word problems.
+    * How to fix it word problems.
+    * Anything else extra that may be there.
+    * The Extra Credit.
+    * Sorry Zed, I am not typing the comments :-P Unless it really seems necessary.
+As requested by the author of the book, Lesson text will not be included, I will paste a URL back to the book as I reach each area, otherwise only my tpyed interpretation of the C code will be found here.
+Well, WTF are you? 
+I am a Perl Programmer for a very large web based corporation, and know Javascript pretty well, a touch of CSS, and a Partridge in a Pear Tree. I'm self taught, and have been avoiding C for... 25 years... it's time to man up. I hate Python and PHP, I would love for Python to die in a horrible fire, taking PHP with it... Don't screw me with your stupid whitespace policies... So save the "Try <insert fad language here>!!!! It's better and easier!!!" talk for someone else who doesn't care. I love Perl and will never surrender!!!! Learning C will be a great extension to my knowledge base. I'm also a self taught Musician, I play all forms of music on 4-5 String Bass, 6 string fretless bass, 6-7-8 string guitars, accomplished songwriter with well over 70 songs written, and i like to mix it up, take Perl algorithms and make music with them, or on the flip side, take music, and make Perl of it, but wait a sec, this README isn't about Perl, it's about C. So let's get busy and see whwhat c can help us to see c in a better seen light... or something...
